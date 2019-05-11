@@ -6,3 +6,5 @@ this is my second GIT repository
 
 
 changes made
+
+>>This is the change made in remote repo directly<<
